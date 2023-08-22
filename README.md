@@ -1,5 +1,4 @@
-# eda-home-assignment
-
+# Exploratory data analysis
 
 ### Clone the repository:
 #### - git clone https://github.com/ArsenEremyan01/eda-home-assignment.git
@@ -15,5 +14,3 @@
 
 ### Run:
 #### - jupyter notebook
-
-# eda-home-assignment
